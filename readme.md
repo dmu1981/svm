@@ -46,4 +46,4 @@ Non-linear kernels are expressive enough to cover even more complicated cases li
 
 ## Toy Example 4
 With completely seperated clusters, the high expressivness of the infinite dimensional vector space of the RBF kernel really shines. 
-![](toy4.PNG)
+![](toy4.png)
